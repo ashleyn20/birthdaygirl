@@ -2,6 +2,7 @@ body {
     background-color: lavenderblush;
 }
 
-.top {
+.top img {
     text-align: center;
+    width:100%;
 }
